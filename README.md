@@ -1,7 +1,7 @@
 # serverIP
 
 IP is dynamic 
-IP : 79.186.245.154
+IP : 83.20.161.21
 
 active Ports: 55555   ,8000
 
