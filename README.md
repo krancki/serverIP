@@ -1,9 +1,8 @@
 # serverIP
 
-IP is dynamic 
-IP : 83.20.161.21
+Home Server  - krancki.ddns.net     
 
-active Ports: 55555   ,8000
+active Ports: null
 
 
 55555 - Java Socket server for http
